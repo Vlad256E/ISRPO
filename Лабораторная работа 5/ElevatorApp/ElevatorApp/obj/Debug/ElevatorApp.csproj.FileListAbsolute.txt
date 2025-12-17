@@ -1,0 +1,15 @@
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\bin\Debug\ElevatorApp.exe.config
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\bin\Debug\ElevatorApp.exe
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\bin\Debug\ElevatorApp.pdb
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp.csproj.AssemblyReference.cache
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\obj\Debug\MainWindow.g.cs
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\obj\Debug\App.g.cs
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp_MarkupCompile.cache
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp_MarkupCompile.lref
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\obj\Debug\MainWindow.baml
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp.g.resources
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp.Properties.Resources.resources
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp.csproj.GenerateResource.cache
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp.csproj.CoreCompileInputs.cache
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp.exe
+C:\Users\blad2\Desktop\ИСРПО\Работы\ElevatorApp\ElevatorApp\obj\Debug\ElevatorApp.pdb
