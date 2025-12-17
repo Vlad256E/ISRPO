@@ -1,7 +1,0 @@
-C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskC\Lab4_TaskC\bin\Debug\Lab4_TaskC.exe.config
-C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskC\Lab4_TaskC\bin\Debug\Lab4_TaskC.exe
-C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskC\Lab4_TaskC\bin\Debug\Lab4_TaskC.pdb
-C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskC\Lab4_TaskC\obj\Debug\Lab4_TaskC.csproj.AssemblyReference.cache
-C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskC\Lab4_TaskC\obj\Debug\Lab4_TaskC.csproj.CoreCompileInputs.cache
-C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskC\Lab4_TaskC\obj\Debug\Lab4_TaskC.exe
-C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskC\Lab4_TaskC\obj\Debug\Lab4_TaskC.pdb
