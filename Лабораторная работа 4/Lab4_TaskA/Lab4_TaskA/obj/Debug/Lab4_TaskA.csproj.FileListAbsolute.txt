@@ -1,0 +1,7 @@
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskA\Lab4_TaskA\bin\Debug\Lab4_TaskA.exe.config
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskA\Lab4_TaskA\bin\Debug\Lab4_TaskA.exe
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskA\Lab4_TaskA\bin\Debug\Lab4_TaskA.pdb
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskA\Lab4_TaskA\obj\Debug\Lab4_TaskA.csproj.AssemblyReference.cache
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskA\Lab4_TaskA\obj\Debug\Lab4_TaskA.csproj.CoreCompileInputs.cache
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskA\Lab4_TaskA\obj\Debug\Lab4_TaskA.exe
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskA\Lab4_TaskA\obj\Debug\Lab4_TaskA.pdb
