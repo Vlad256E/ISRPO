@@ -1,0 +1,15 @@
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\bin\Debug\Lab6A_WPF.exe.config
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\bin\Debug\Lab6A_WPF.exe
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\bin\Debug\Lab6A_WPF.pdb
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\obj\Debug\Lab6A_WPF.csproj.AssemblyReference.cache
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\obj\Debug\App.g.cs
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\obj\Debug\Lab6A_WPF_MarkupCompile.cache
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\obj\Debug\Lab6A_WPF_MarkupCompile.lref
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\obj\Debug\MainWindow.baml
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\obj\Debug\Lab6A_WPF.g.resources
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\obj\Debug\Lab6A_WPF.Properties.Resources.resources
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\obj\Debug\Lab6A_WPF.csproj.GenerateResource.cache
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\obj\Debug\Lab6A_WPF.csproj.CoreCompileInputs.cache
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\obj\Debug\Lab6A_WPF.exe
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6A_WPF\Lab6A_WPF\obj\Debug\Lab6A_WPF.pdb

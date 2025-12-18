@@ -50,12 +50,12 @@ namespace Lab4_TaskA
     {
         static void Main(string[] args)
         {
-            // Сценарий 1: Вызов конструктора с параметрами 
+            // Вызов конструктора с параметрами 
             Console.WriteLine("Тест 1: Объект с параметрами");
             Angle angle1 = new Angle(45, 12.5f, 'N');
             angle1.ShowAngle();
 
-            // Сценарий 2: Вызов конструктора без параметров и ручной ввод 
+            // Вызов конструктора без параметров и ручной ввод 
             Console.WriteLine("\nТест 2: Объект по умолчанию и ввод");
             Angle angle2 = new Angle();
             angle2.InputAngle(); // Запрашиваем значения 

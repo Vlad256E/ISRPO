@@ -5,3 +5,10 @@ C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskB\Lab4_TaskB\obj\Debug\L
 C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskB\Lab4_TaskB\obj\Debug\Lab4_TaskB.csproj.CoreCompileInputs.cache
 C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskB\Lab4_TaskB\obj\Debug\Lab4_TaskB.exe
 C:\Users\blad2\Desktop\ИСРПО\Работы\Lab4_TaskB\Lab4_TaskB\obj\Debug\Lab4_TaskB.pdb
+C:\Users\blad2\Desktop\ИСРПО\Работы\Лабораторная работа 4\Lab4_TaskB\Lab4_TaskB\bin\Debug\Lab4_TaskB.exe.config
+C:\Users\blad2\Desktop\ИСРПО\Работы\Лабораторная работа 4\Lab4_TaskB\Lab4_TaskB\bin\Debug\Lab4_TaskB.exe
+C:\Users\blad2\Desktop\ИСРПО\Работы\Лабораторная работа 4\Lab4_TaskB\Lab4_TaskB\bin\Debug\Lab4_TaskB.pdb
+C:\Users\blad2\Desktop\ИСРПО\Работы\Лабораторная работа 4\Lab4_TaskB\Lab4_TaskB\obj\Debug\Lab4_TaskB.csproj.AssemblyReference.cache
+C:\Users\blad2\Desktop\ИСРПО\Работы\Лабораторная работа 4\Lab4_TaskB\Lab4_TaskB\obj\Debug\Lab4_TaskB.csproj.CoreCompileInputs.cache
+C:\Users\blad2\Desktop\ИСРПО\Работы\Лабораторная работа 4\Lab4_TaskB\Lab4_TaskB\obj\Debug\Lab4_TaskB.exe
+C:\Users\blad2\Desktop\ИСРПО\Работы\Лабораторная работа 4\Lab4_TaskB\Lab4_TaskB\obj\Debug\Lab4_TaskB.pdb

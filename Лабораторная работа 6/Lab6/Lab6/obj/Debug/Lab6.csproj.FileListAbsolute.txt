@@ -1,0 +1,7 @@
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\blad2\Desktop\ИСРПО\Работы\Lab6\Lab6\obj\Debug\Lab6.pdb

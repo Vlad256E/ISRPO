@@ -1,0 +1,31 @@
+﻿<Window x:Class="Lab6A_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab6A_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Лабораторная работа 6А" TextAlignment="Center" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Выберите тип фигуры:"/>
+            <ComboBox Name="ComboShape" SelectionChanged="ComboShape_SelectionChanged" Margin="0,5,0,15">
+                <ComboBoxItem Content="Прямоугольник" IsSelected="True"/>
+                <ComboBoxItem Content="Квадрат"/>
+                <ComboBoxItem Content="Круг"/>
+            </ComboBox>
+
+            <TextBlock Text="Ширина / Сторона / Радиус:"/>
+            <TextBox Name="Box1" Height="25" Margin="0,5,0,10"/>
+
+            <TextBlock Name="Label2" Text="Высота:"/>
+            <TextBox Name="Box2" Height="25" Margin="0,5,0,10"/>
+
+            <Button Content="Рассчитать площадь и периметр" Click="Button_Click" Height="35" Margin="0,10,0,10"/>
+
+            <TextBlock Name="TextResult" FontSize="14" Foreground="Blue" TextWrapping="Wrap"/>
+        </StackPanel>
+    </Grid>
+</Window>
